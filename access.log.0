@@ -1,0 +1,4 @@
+173.236.168.100 - - [12/Jun/2019:16:36:33 -0700] "GET /2019/06/12/hello-world/ HTTP/1.1" 404 469 "http://ranmac2.dreamhosters.com/2019/06/12/hello-world/" "WordPress/5.2.1; http://ranmac2.dreamhosters.com" 
+173.236.168.100 - - [12/Jun/2019:16:36:33 -0700] "GET /index.php/2019/06/12/hello-world/ HTTP/1.1" 500 237 "http://ranmac2.dreamhosters.com/index.php/2019/06/12/hello-world/" "WordPress/5.2.1; http://ranmac2.dreamhosters.com" 
+173.236.168.100 - - [12/Jun/2019:16:36:37 -0700] "POST /wp-cron.php?doing_wp_cron=1560382597.4862489700317382812500 HTTP/1.1" 500 237 "http://ranmac2.dreamhosters.com/wp-cron.php?doing_wp_cron=1560382597.4862489700317382812500" "WordPress/5.2.1; http://ranmac2.dreamhosters.com" 
+173.236.168.100 - - [12/Jun/2019:16:36:37 -0700] "GET /wp-content/cache/ HTTP/1.1" 200 490 "http://ranmac2.dreamhosters.com/wp-content/cache/" "WordPress/5.2.1; http://ranmac2.dreamhosters.com" 
